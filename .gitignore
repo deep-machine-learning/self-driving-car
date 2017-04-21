@@ -1,0 +1,10 @@
+*.pyc
+*.h5
+Unity/Library
+Unity/log/*
+Unity/obj
+Unity/*.sln
+Unity/*.userprefs
+Unity/Temp
+Unity/*.csproj
+
