@@ -36,7 +36,7 @@ public class PedestrianSystemEditor : Editor
 		if(!PedestrianSystem)
 			Debug.LogError("Pedestrian System Error -> \"Pedestrian System\" script must be in the scene. It is missing. Drop in the \"PedestrianSystem\" Prefab to fix this.");
 
-		string sDataPath  = Application.dataPath + "/Pedestrian System/Prefabs/Resources/Active/";
+		string sDataPath  = Application.dataPath + "Standard Assets/Pedestrian System/Prefabs/Resources/Active/";
 		
 		// get the system file paths of all the files in the asset folder
 		string[] aFilePaths = Directory.GetFiles(sDataPath);
