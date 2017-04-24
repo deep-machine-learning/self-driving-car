@@ -12,10 +12,6 @@
 
 ## Setup
 
-## For the impatient ( I just want to see this work )
-
-#To create your own data and train
-
 ## Generate training data
 
 ## Train Neural network
